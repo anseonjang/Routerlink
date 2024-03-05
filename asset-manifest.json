@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Routerlink/static/css/main.e6c13ad2.css",
+    "main.js": "/Routerlink/static/js/main.f541b7e3.js",
+    "static/js/453.3e49419c.chunk.js": "/Routerlink/static/js/453.3e49419c.chunk.js",
+    "index.html": "/Routerlink/index.html",
+    "main.e6c13ad2.css.map": "/Routerlink/static/css/main.e6c13ad2.css.map",
+    "main.f541b7e3.js.map": "/Routerlink/static/js/main.f541b7e3.js.map",
+    "453.3e49419c.chunk.js.map": "/Routerlink/static/js/453.3e49419c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f541b7e3.js"
+  ]
+}
